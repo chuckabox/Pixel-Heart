@@ -1,10 +1,10 @@
 <img width="1254" height="170" alt="pixel-heart-transparent" src="https://github.com/user-attachments/assets/71a711dd-6e14-484f-9d77-4dcca23ebb5b" />
 
----
+<hr style="border: 0.2px solid #ccc">
 
 Pixel Heart is a 2D black-and-white platformer developed in Godot. You navigate through 30 progressively challenging levels, collecting all hearts to progress while using advanced platforming mechanics.
 
----
+<hr style="border: 0.5px solid #ccc">
 
 ## Features
 
