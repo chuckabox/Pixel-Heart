@@ -59,3 +59,5 @@ You can also play by downloading the latest release: **[v1.0.0](https://github.c
 * **Complete the level by collecting all hearts**
 * **Timer** tracks how long it takes
 * **Level counter** shows your current level
+
+© 2026 Peter Ma. All rights reserved. Do not copy or redistribute.
